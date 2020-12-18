@@ -1,2 +1,2 @@
-# Equity Disclosure
+# Equity-Disclosure
  
